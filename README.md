@@ -44,40 +44,11 @@
    <tr>
     </tr>
     <tr>
-      <td>
-        <a href="https://github.com/beraiarezo?tab=repositories&q=&type=&language=&sort=stargazers#gh-light-mode-only>
-          <img
-            alt="Beraiarezo's Most Used Languages"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=beraiarezo&show_icons=true&title_color=7733ff&icon_color=475569&text_color=475569&text_bold=false&count_private=true&bg_color=fffefe"
-          />
-        </a>
-        <a
-          href="https://github.com/beraiarezo?tab=repositories&q=&type=&language=&sort=stargazers#gh-dark-mode-only"
-        >
-          <img
-            alt="Beraiarezo's Most Used Languages"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=beraiarezo&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true"
-          />
-        </a>
-        <!-- End of Most Used Language -->
-        <br />
-        <!-- modified -->
-        <!-- GitHub Stats -->
-        <a
-          href="https://github.com/beraiarezo?tab=repositories&q=&type=&language=&sort=stargazers#gh-dark-mode-only"
-        >
-          <img
-            alt="Beraiarezo's GitHub Stats"
-            src="https://github-readme-stats.vercel.app/api?username=beraiarezo&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true&ring_color=7733ff"
-          />
-        </a>
-      </td>
       <td align="center">
         <!-- Skills -->
         <a href="https://github.com/beraiarezo?tab=repositories&q=&type=&language=&sort=stargazers#gh-light-mode-only">
           <img alt="Beraiarezo's Skills" src="https://skillicons.dev/icons?i=vite,vitest,apollo,apple,babel,bitbucket,blender,bootstrap,bun,cpp,cassandra,css,emacs,figma,git,github,gmail,graphql,html,js,jquery,linkedin,linux,md,mysql,nestjs,nodejs,npm,ps,postgres,postman,react,redux,regex,sass,stackoverflow,styledcomponents,tailwind,threejs,ts,ubuntu,vim,vscode,webpack,yarn&perline=5&theme=light" />
         </a>
-        <!-- End of Skills -->
       </td>
     </tr>
   </table>
