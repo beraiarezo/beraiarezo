@@ -70,7 +70,7 @@
       <td align="center">
         <!-- Skills -->
         <a href="https://github.com/beraiarezo?tab=repositories&q=&type=&language=&sort=stargazers#gh-light-mode-only">
-          <img alt="Beraiarezo's Skills" src="https://skillicons.dev/icons?i=apollo,apple,babel,bitbucket,blender,bootstrap,bun,cpp,cassandra,css,emacs,figma,git,github,gmail,graphql,html,js,jquery,linkedin,linux,md,mysql,nestjs,nodejs,npm,ps,postgres,postman,react,redux,regex,sass,stackoverflow,styledcomponents,tailwind,threejs,ts,ubuntu,vim,vscode,webpack,yarn&perline=5&theme=light" />
+          <img alt="Beraiarezo's Skills" src="https://skillicons.dev/icons?i=vite,vitest,apollo,apple,babel,bitbucket,blender,bootstrap,bun,cpp,cassandra,css,emacs,figma,git,github,gmail,graphql,html,js,jquery,linkedin,linux,md,mysql,nestjs,nodejs,npm,ps,postgres,postman,react,redux,regex,sass,stackoverflow,styledcomponents,tailwind,threejs,ts,ubuntu,vim,vscode,webpack,yarn&perline=5&theme=light" />
         </a>
         <!-- End of Skills -->
       </td>
