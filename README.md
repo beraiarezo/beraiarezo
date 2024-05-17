@@ -1,5 +1,24 @@
-### Hi there 👋
-#### I'm Rezo, a passionate Frontend Developer with a keen eye for detail and a love for creating seamless user experiences. With a strong foundation in HTML, CSS, and JavaScript, I specialize in building responsive and interactive web applications that are both visually appealing and highly functional.
+<!-- profile view count -->
+<img align="right" src="https://komarev.com/ghpvc/?username=beraiarezo">
+
+<!-- introduction -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;&center=true&size=30">
+  </a>
+</h1>
+
+<br />
+<!-- about me -->
+<p align="center">
+  Hi, I'm Rezo Beraia, Web Developer/Coder 💻,  professional 👨‍💻 &  gamer 🦸‍♂️ from Georgia 🇬🇪.
+  <br />
+  <br />
+  💻 I love technologies and frameworks.
+  <br />
+  🧑‍💼 a passionate Frontend Developer with a keen eye for detail and a love for creating seamless user experiences. With a strong foundation in HTML, CSS, and JavaScript, I specialize in building responsive and interactive web applications that are both visually appealing and highly functional.
+  <br />
+</p>
 
 <header>
   <div align="center">
@@ -21,16 +40,6 @@
 
   <table align="center">
     <tr>
-      <td colspan="2">
-        <!-- Weekly profile views -->
-        <a href="https://github.com/beraiarezo">
-          <img
-            align="left"
-            alt="This week GitHub profile views"
-            src="https://komarev.com/ghpvc/?username=beraiarezo&style=flat&color=7733ff&label=Weekly+GitHub+Profile+Views"
-          />
-        </a>
-      </td>
     </tr>
     <!-- disable zebra striping -->
     <tr></tr>
