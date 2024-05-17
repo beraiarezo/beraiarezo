@@ -11,7 +11,7 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Myself Rezo Beraia, Web Developer/Coder 💻,  Tech Enthusiast since childhood 👨🏾‍💻 &  gamer 🦸🏽‍♂️ from Georgia 🇬🇪.
+  Myself Rezo Beraia, Web Developer/Coder 👨🏾‍💻,  Tech Enthusiast 🚀,  Problem Solver 🧩 Lifelong Learner 📚 from beautiful country of Georgia 🇬🇪.
   <br />
   <br />
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy working on I love technologies and frameworks.
