@@ -16,7 +16,7 @@
   <br />
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy working on I love technologies and frameworks.
   <br />
-  🤖 a passionate Frontend Developer with a keen eye for detail and a love for creating seamless user experiences. With a strong foundation in HTML, CSS, and JavaScript, I specialize in building responsive and interactive web applications that are both visually appealing and highly functional.
+  🤖 A passionate Frontend Developer with a keen eye for detail and a love for creating seamless user experiences. With a strong foundation in HTML, CSS, and JavaScript, I specialize in building responsive and interactive web applications that are both visually appealing and highly functional.
   <br />
 </p>
 
@@ -37,19 +37,12 @@
   </div>
 </header>
 
-
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
   <table align="center">
-    <tr>
-    </tr>
-    <!-- disable zebra striping -->
-    <tr></tr>
+
     <tr>
       <td>
-        <!--       <img width="567" height="1"> -->
-        <!-- Most Used Language -->
-        <a
-          href="https://github.com/beraiarezo?tab=repositories&q=&type=&language=&sort=stargazers#gh-light-mode-only"
-        >
+        <a href="https://github.com/beraiarezo?tab=repositories&q=&type=&language=&sort=stargazers#gh-light-mode-only>
           <img
             alt="Beraiarezo's Most Used Languages"
             src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=beraiarezo&show_icons=true&title_color=7733ff&icon_color=475569&text_color=475569&text_bold=false&count_private=true&bg_color=fffefe"
