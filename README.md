@@ -41,8 +41,7 @@
   <table align="center">
    <tr>
     </tr>
-    <!-- disable zebra striping -->
-    <tr></tr>
+   
     <tr>
       <td>
         <a href="https://github.com/beraiarezo?tab=repositories&q=&type=&language=&sort=stargazers#gh-light-mode-only>
