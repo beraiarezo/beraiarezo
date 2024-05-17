@@ -11,12 +11,12 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Rezo Beraia, Web Developer/Coder 💻,  professional 👨‍💻 &  gamer 🦸‍♂️ from Georgia 🇬🇪.
+  Myself Rezo Beraia, Web Developer/Coder 💻,  Tech Enthusiast since childhood 👨🏾‍💻 &  gamer 🦸🏽‍♂️ from Georgia 🇬🇪.
   <br />
   <br />
-  💻 I love technologies and frameworks.
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy working on I love technologies and frameworks.
   <br />
-  🧑‍💼 a passionate Frontend Developer with a keen eye for detail and a love for creating seamless user experiences. With a strong foundation in HTML, CSS, and JavaScript, I specialize in building responsive and interactive web applications that are both visually appealing and highly functional.
+  🤖 a passionate Frontend Developer with a keen eye for detail and a love for creating seamless user experiences. With a strong foundation in HTML, CSS, and JavaScript, I specialize in building responsive and interactive web applications that are both visually appealing and highly functional.
   <br />
 </p>
 
